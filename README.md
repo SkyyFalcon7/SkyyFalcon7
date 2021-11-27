@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="readCores.css">
 <h1>Olá, seja bem vindo ao meu perfil no github</h1>
 <hr>
 
