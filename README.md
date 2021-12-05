@@ -3,8 +3,8 @@
 <hr>
 <div align="center">
   <a href="https://github.com/LucasS2105">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasS2105&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasS2105&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasS2105&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasS2105&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/lucas-g-70356621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
